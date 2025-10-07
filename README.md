@@ -198,12 +198,12 @@ If you are looking for a developer who can deliver **production-grade, scalable,
 
 <p align="center">
 
-<img src="https://github.com/AntoniousEmadkamel/taswaq_app/blob/master/screenshoots/splasht.png" width="120"/>
+<img src="https://github.com/AntoniousEmadkamel/taswaq_app/blob/master/screenshoots/splash.png" width="120"/>
 <img src="https://github.com/AntoniousEmadkamel/taswaq_app/blob/master/screenshoots/sign-in.png" width="120"/>
 <img src="https://github.com/AntoniousEmadkamel/taswaq_app/blob/master/screenshoots/sign-up.png" width="120"/>
 <img src="https://github.com/AntoniousEmadkamel/taswaq_app/blob/master/screenshoots/home.png" width="120"/>
 <img src="https://github.com/AntoniousEmadkamel/taswaq_app/blob/master/screenshoots/categories-men.png" width="120"/>
-<img src="https://github.com/AntoniousEmadkamel/taswaq_app/blob/master/screenshoots/categories-women.png" width="120"/>
+<img src="https://github.com/AntoniousEmadkamel/taswaq_app/blob/master/screenshoots/Categories-women.png" width="120"/>
 <br>
 <br>
 <img src="https://github.com/AntoniousEmadkamel/taswaq_app/blob/master/screenshoots/product-list.png" width="120"/>
